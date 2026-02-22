@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1080" height="2436" alt="moviesscreen" src="https://github.com/user-attachments/assets/b42bc4f1-f1e9-4979-8d4d-8d056585507a" /><img width="1080" height="2436" alt="homescreen" src="https://github.com/user-attachments/assets/dc127032-3fc8-45a5-8326-3b1c88af6fe6" /><div align="center">
   <h1>XeeonTV</h1>
   <p>An advanced, feature-rich IPTV Player and Media Manager for Android.</p>
 </div>
@@ -42,17 +42,23 @@ You can download the latest version of XeeonTV from the **[Releases page](https:
 
 *(You can add screenshots here by dragging and dropping them from your phone into the GitHub editor later)*
 
-| Profiles | Home Screen | Movies | Series | Detail Screen | Live TV |  Settings | Video Player |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img width="1080" height="2436" alt="profilescreen" src="https://github.com/user-attachments/assets/594f877e-92c7-4fd8-bd58-0f210999fb15" /> 
-| <img width="1080" height="2436" alt="homescreen" src="https://github.com/user-attachments/assets/94e7c978-6da9-49aa-994e-1f57260e7431" />
-| <img width="1080" height="2436" alt="moviesscreen" src="https://github.com/user-attachments/assets/412dec83-ed67-4585-b8ab-da18dfeb2a61" />
-| <img width="1080" height="2436" alt="seriesscreen" src="https://github.com/user-attachments/assets/fce20e8b-f743-4ce5-a910-94afd6fc8228" />
-| <img width="1080" height="2436" alt="detailscreen" src="https://github.com/user-attachments/assets/8203b6ce-e63b-48fb-bd7f-89e6b52eaa62" />
-| <img width="1080" height="2436" alt="livetvscreen" src="https://github.com/user-attachments/assets/5b1979f1-b445-490a-ba77-06435c131ceb" /> 
-| <img width="1080" height="2436" alt="settingscreen" src="https://github.com/user-attachments/assets/76495d83-f913-48a2-bc80-07162aa8c698" />
-| <img width="2436" height="1080" alt="videoplayer" src="https://github.com/user-attachments/assets/ea51c072-6789-4c8e-b6a7-3d31e07073f9" />
+| Profiles | Home Screen | Movies | Series |
+| :---: | :---: | :---: | :---: |
+| <img width="1080" height="2436" alt="profilescreen" src="https://github.com/user-attachments/assets/0ab47901-54b5-4d78-b4af-4c3fdc489e02" />
+| <img width="1080" height="2436" alt="homescreen" src="https://github.com/user-attachments/assets/ce327bec-a761-4961-a051-f45525e6c1b2" />
+|<img width="1080" height="2436" alt="moviesscreen" src="https://github.com/user-attachments/assets/21e45e72-9f70-4e9b-9139-cc8f5162c474" />
+| <img width="1080" height="2436" alt="seriesscreen" src="https://github.com/user-attachments/assets/8cfe402d-d29d-493b-8e8a-f69337fbaa9b" />
+|
 
+<br>
+
+| Detail Screen | Live TV | Settings | Video Player |
+| :---: | :---: | :---: | :---: |
+|<img width="1080" height="2436" alt="detailscreen" src="https://github.com/user-attachments/assets/6d97570a-7899-4814-a35a-5f8f95062f9a" />
+|<img width="1080" height="2436" alt="livetvscreen" src="https://github.com/user-attachments/assets/0f04115a-5367-48e9-9d9a-ffa72f016f25" />
+| <img width="1080" height="2436" alt="settingscreen" src="https://github.com/user-attachments/assets/51511c63-2f4e-4d55-9a23-9f094173b365" />
+| <img width="2436" height="1080" alt="videoplayer" src="https://github.com/user-attachments/assets/73fcc622-5360-40c2-b122-f9efa1f06805" />
+|
 
 ## 🐛 Bug Reports & Feature Requests
 
@@ -64,6 +70,26 @@ When reporting bugs, please include:
 - Steps to reproduce the issue
 - Screenshots or screen recordings (if possible)
 
+## 🛠 Built With
+
+XeeonTV is built using a modern Android development stack:
+
+- **Kotlin** - Primary programming language
+- **Jetpack Compose** - UI toolkit for creating the beautiful layout
+- **Material 3** - Design system
+- **ExoPlayer (Media3)** - For robust video playback and live streaming
+- **Coroutines & Flow** - For asynchronous programming and state management
+- **Room / DataStore** - For local database and user settings
+
+## ❤️ Support the Developer
+
+If you enjoy using XeeonTV and would like to support its continued development, you can buy me a coffee! Your support helps keep the app ad-free and encourages future updates.
+
+- **PayPal:** [Donate via PayPal](https://www.paypal.com/paypalme/zubayrop)
+- **NayaPay:** `zubayr@nayapay`
+
+<br>
+
 ## ⚖️ License
 
 The source code of this application is **Closed Source** and proprietary. All rights reserved. You are welcome to download and use the official APKs provided in the Releases section. Modification, reverse-engineering, or redistribution of the software is strictly prohibited. See the `LICENSE` file for more details.
@@ -71,4 +97,3 @@ The source code of this application is **Closed Source** and proprietary. All ri
 <div align="center">
   <sub>Built with ❤️ by Zubayr Aly</sub>
 </div>
-
