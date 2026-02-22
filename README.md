@@ -42,10 +42,17 @@ You can download the latest version of XeeonTV from the **[Releases page](https:
 
 *(You can add screenshots here by dragging and dropping them from your phone into the GitHub editor later)*
 
-| Profiles | Home Screen | Movies/Series | Detail Screen | Live TV | Video Player | Settings |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| `<img width="1080" height="2436" alt="profilescreen" src="https://github.com/user-attachments/assets/594f877e-92c7-4fd8-bd58-0f210999fb15" />
-` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` |
+| Profiles | Home Screen | Movies | Series | Detail Screen | Live TV |  Settings | Video Player |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img width="1080" height="2436" alt="profilescreen" src="https://github.com/user-attachments/assets/594f877e-92c7-4fd8-bd58-0f210999fb15" /> 
+| <img width="1080" height="2436" alt="homescreen" src="https://github.com/user-attachments/assets/94e7c978-6da9-49aa-994e-1f57260e7431" />
+| <img width="1080" height="2436" alt="moviesscreen" src="https://github.com/user-attachments/assets/412dec83-ed67-4585-b8ab-da18dfeb2a61" />
+| <img width="1080" height="2436" alt="seriesscreen" src="https://github.com/user-attachments/assets/fce20e8b-f743-4ce5-a910-94afd6fc8228" />
+| <img width="1080" height="2436" alt="detailscreen" src="https://github.com/user-attachments/assets/8203b6ce-e63b-48fb-bd7f-89e6b52eaa62" />
+| <img width="1080" height="2436" alt="livetvscreen" src="https://github.com/user-attachments/assets/5b1979f1-b445-490a-ba77-06435c131ceb" /> 
+| <img width="1080" height="2436" alt="settingscreen" src="https://github.com/user-attachments/assets/76495d83-f913-48a2-bc80-07162aa8c698" />
+| <img width="2436" height="1080" alt="videoplayer" src="https://github.com/user-attachments/assets/ea51c072-6789-4c8e-b6a7-3d31e07073f9" />
+
 
 ## 🐛 Bug Reports & Feature Requests
 
@@ -64,3 +71,4 @@ The source code of this application is **Closed Source** and proprietary. All ri
 <div align="center">
   <sub>Built with ❤️ by Zubayr Aly</sub>
 </div>
+
