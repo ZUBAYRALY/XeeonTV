@@ -42,9 +42,9 @@ You can download the latest version of XeeonTV from the **[Releases page](https:
 
 *(You can add screenshots here by dragging and dropping them from your phone into the GitHub editor later)*
 
-| Home Screen | Player Screen | Live TV |
-| :---: | :---: | :---: |
-| `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` |
+| Profiles | Home Screen | Movies/Series | Live TV | Video Player | Settings |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` |
 
 ## 🐛 Bug Reports & Feature Requests
 
