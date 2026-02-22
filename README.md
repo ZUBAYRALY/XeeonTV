@@ -26,7 +26,7 @@
   - Subtitle and Audio track selection
 - **Continue Watching:** Automatically tracks your watch progress across all your movies and TV episodes.
 - **Dynamic Theming:** Built with Jetpack Compose Material 3. Includes beautiful customized palettes (like Slate) and Dark mode by default.
-- **Smart Discoverability:** Browse Trending, Popular, and Latest items easily with Netflix-style carousels.
+- **Smart Discoverability:** Browse Trending, Popular, and Latest items easily with Premium carousels.
 
 ## 📥 Installation
 
@@ -87,3 +87,4 @@ The source code of this application is **Closed Source** and proprietary. All ri
 <div align="center">
   <sub>Built with ❤️ by Zubayr Aly</sub>
 </div>
+
