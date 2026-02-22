@@ -1,4 +1,4 @@
-<img width="1080" height="2436" alt="moviesscreen" src="https://github.com/user-attachments/assets/b42bc4f1-f1e9-4979-8d4d-8d056585507a" /><img width="1080" height="2436" alt="homescreen" src="https://github.com/user-attachments/assets/dc127032-3fc8-45a5-8326-3b1c88af6fe6" /><div align="center">
+<div align="center">
   <h1>XeeonTV</h1>
   <p>An advanced, feature-rich IPTV Player and Media Manager for Android.</p>
 </div>
@@ -40,25 +40,15 @@ You can download the latest version of XeeonTV from the **[Releases page](https:
 
 ## 📸 Screenshots
 
-*(You can add screenshots here by dragging and dropping them from your phone into the GitHub editor later)*
-
 | Profiles | Home Screen | Movies | Series |
 | :---: | :---: | :---: | :---: |
-| <img width="1080" height="2436" alt="profilescreen" src="https://github.com/user-attachments/assets/0ab47901-54b5-4d78-b4af-4c3fdc489e02" />
-| <img width="1080" height="2436" alt="homescreen" src="https://github.com/user-attachments/assets/ce327bec-a761-4961-a051-f45525e6c1b2" />
-|<img width="1080" height="2436" alt="moviesscreen" src="https://github.com/user-attachments/assets/21e45e72-9f70-4e9b-9139-cc8f5162c474" />
-| <img width="1080" height="2436" alt="seriesscreen" src="https://github.com/user-attachments/assets/8cfe402d-d29d-493b-8e8a-f69337fbaa9b" />
-|
+| <img src="https://github.com/user-attachments/assets/0ab47901-54b5-4d78-b4af-4c3fdc489e02" width="220" /> | <img src="https://github.com/user-attachments/assets/ce327bec-a761-4961-a051-f45525e6c1b2" width="220" /> | <img src="https://github.com/user-attachments/assets/21e45e72-9f70-4e9b-9139-cc8f5162c474" width="220" /> | <img src="https://github.com/user-attachments/assets/8cfe402d-d29d-493b-8e8a-f69337fbaa9b" width="220" /> |
 
 <br>
 
 | Detail Screen | Live TV | Settings | Video Player |
 | :---: | :---: | :---: | :---: |
-|<img width="1080" height="2436" alt="detailscreen" src="https://github.com/user-attachments/assets/6d97570a-7899-4814-a35a-5f8f95062f9a" />
-|<img width="1080" height="2436" alt="livetvscreen" src="https://github.com/user-attachments/assets/0f04115a-5367-48e9-9d9a-ffa72f016f25" />
-| <img width="1080" height="2436" alt="settingscreen" src="https://github.com/user-attachments/assets/51511c63-2f4e-4d55-9a23-9f094173b365" />
-| <img width="2436" height="1080" alt="videoplayer" src="https://github.com/user-attachments/assets/73fcc622-5360-40c2-b122-f9efa1f06805" />
-|
+| <img src="https://github.com/user-attachments/assets/6d97570a-7899-4814-a35a-5f8f95062f9a" width="220" /> | <img src="https://github.com/user-attachments/assets/0f04115a-5367-48e9-9d9a-ffa72f016f25" width="220" /> | <img src="https://github.com/user-attachments/assets/51511c63-2f4e-4d55-9a23-9f094173b365" width="220" /> | <img src="https://github.com/user-attachments/assets/73fcc622-5360-40c2-b122-f9efa1f06805" width="400" /> |
 
 ## 🐛 Bug Reports & Feature Requests
 
