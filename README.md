@@ -44,7 +44,8 @@ You can download the latest version of XeeonTV from the **[Releases page](https:
 
 | Profiles | Home Screen | Movies/Series | Live TV | Video Player | Settings |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` |
+| `<Insert Scr<img width="1012" height="862" alt="Screenshot 2026-02-23 002136" src="https://github.com/user-attachments/assets/8024a871-0cd1-4b26-90a7-a9c9e871a44d" />
+eenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` |
 
 ## 🐛 Bug Reports & Feature Requests
 
@@ -63,3 +64,4 @@ The source code of this application is **Closed Source** and proprietary. All ri
 <div align="center">
   <sub>Built with ❤️ by Zubayr Aly</sub>
 </div>
+
