@@ -42,10 +42,9 @@ You can download the latest version of XeeonTV from the **[Releases page](https:
 
 *(You can add screenshots here by dragging and dropping them from your phone into the GitHub editor later)*
 
-| Profiles | Home Screen | Movies/Series | Live TV | Video Player | Settings |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| `<Insert Scr<img width="1012" height="862" alt="Screenshot 2026-02-23 002136" src="https://github.com/user-attachments/assets/8024a871-0cd1-4b26-90a7-a9c9e871a44d" />
-eenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` |
+| Profiles | Home Screen | Movies/Series | Detail Screen | Live TV | Video Player | Settings |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| `<img width="1080" height="2436" alt="profilescreen" src="https://github.com/user-attachments/assets/99b19127-394f-46af-9d11-081aae66abd3" />` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` | `<Insert Screenshot Here>` |
 
 ## 🐛 Bug Reports & Feature Requests
 
@@ -64,4 +63,3 @@ The source code of this application is **Closed Source** and proprietary. All ri
 <div align="center">
   <sub>Built with ❤️ by Zubayr Aly</sub>
 </div>
-
