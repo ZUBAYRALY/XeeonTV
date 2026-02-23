@@ -29,6 +29,7 @@
 - **Smart Discoverability:** Browse Trending, Popular, and Latest items easily with Premium carousels.
 
 ## 📥 Installation
+> **Note:** XeeonTV requires **Android 10 (API 29)** or higher to run.
 
 ### Latest Release
 You can download the latest version of XeeonTV from the **[Releases page](https://github.com/ZUBAYRALY/XeeonTV/releases)**.
@@ -87,4 +88,5 @@ The source code of this application is **Closed Source** and proprietary. All ri
 <div align="center">
   <sub>Built with ❤️ by Zubayr Aly</sub>
 </div>
+
 
