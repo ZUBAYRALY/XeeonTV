@@ -78,6 +78,7 @@ If you enjoy using XeeonTV and would like to support its continued development, 
 
 - **PayPal:** [Donate via PayPal](https://www.paypal.com/paypalme/zubayrop)
 - **NayaPay:** `zubayr@nayapay`
+- **USDT (Binance BEP20):** `0xeb0aa1a7b9704ef876c8c9f2cd65b8e989c25249`
 
 <br>
 
@@ -88,5 +89,6 @@ The source code of this application is **Closed Source** and proprietary. All ri
 <div align="center">
   <sub>Built with ❤️ by Zubayr Aly</sub>
 </div>
+
 
 
